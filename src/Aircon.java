@@ -1,5 +1,5 @@
 public class Aircon {
-    private Integer temperature = 28;
+    private int temperature = 28;
 
     public void turnOn() {
         System.out.println("Aircon is now ON.");
